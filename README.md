@@ -1,4 +1,18 @@
-# Frontend Challenge
+# Unbabel Frontend Challenge
+
+Challenge accepted! This time with Vue
+
+Check the result at:
+
+[http://unbabel-vue.pbs.pt](http://unbabel-vue.pbs.pt)
+
+## How to run it
+
+npm i
+
+npm run serve
+
+### Original text bellow
 
 Our goal is to understand:
 - How knowledgeable you are
