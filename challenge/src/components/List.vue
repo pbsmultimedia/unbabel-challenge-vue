@@ -194,9 +194,7 @@
       }
 
       &__delete-btn {
-          width: 0;
-          height: 0;
-          overflow: hidden;
+          opacity: 0;
           color: #bfc4ce;
           transition: all .3s;
           &:hover {
@@ -207,9 +205,7 @@
 
       &__delete-btn:focus,
       &__item:hover &__delete-btn {
-          width: auto;
-          height: auto;
-          overflow: visible;
+          opacity: 1;
       }
 
       &__item:hover &__face-icon-wrapper {
